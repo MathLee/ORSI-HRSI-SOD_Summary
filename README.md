@@ -1,4 +1,4 @@
-# Salient Object Detection in Optical Remote Sensing Images Read List         
+# Salient Object Detection in Optical/Hyperspectral Remote Sensing Images Read List         
 
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **ORSI SOD**: Add one Neurocomputing paper.   
@@ -12,9 +12,11 @@
 ## Content:
 
 1. <a href="#ORSI Salient Object Detection"> ORSI Salient Object Detection </a>
-2. <a href="#Related Survey"> Related Survery </a>
-3. <a href="#ORSI-SOD datasets download"> ORSI-SOD datasets download </a>
-4. <a href="#Evaluation Metrics"> Evaluation Metrics </a>
+2. <a href="#HRSI Salient Object Detection"> HRSI Salient Object Detection </a>
+3. <a href="#Related Survey"> Related Survery </a>
+4. <a href="#ORSI-SOD datasets download"> ORSI-SOD datasets download </a>
+5. <a href="#HRSI-SOD datasets download"> HRSI-SOD datasets download </a>
+6. <a href="#Evaluation Metrics"> Evaluation Metrics </a>
 
 
 ------
@@ -241,6 +243,14 @@
 :triangular_flag_on_post: 06 | **IEEE JSTARS** | Visual Saliency Detection in High-Resolution Remote Sensing Images Using Object-Oriented Random Walk Model | [Paper](https://ieeexplore.ieee.org/document/9785897)/Code
 
 
+# HRSI Salient Object Detection <a id="HRSI Salient Object Detection" class="anchor" href="HRSI Salient Object Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
+
+## 2025    
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+:triangular_flag_on_post:1 | **IEEE TGRS** | Hyperspectral Remote Sensing Images Salient Object Detection: The First Benchmark Dataset and Baseline `HRSSD` | [Paper](https://ieeexplore.ieee.org/document/10950441)/[Code](https://github.com/laprf/HRSSD)
+:triangular_flag_on_post:2 | **ICONIP** | Enhancing Hyperspectral Remote Salient Object Detection via Spectral Recalibration, Multi-scale Decoding, and Global Context Modeling | [Paper](https://link.springer.com/chapter/10.1007/978-981-95-4097-6_7)/[Code](https://github.com/dilamei/FMS-Net)
+
 
 
 # Related Survery    <a id="Related Survery" class="anchor" href="Related Survery" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
@@ -257,6 +267,9 @@
 * [ORSI-4199 dataset](https://pan.baidu.com/s/1ZWVSzFpRjN4BK-c9hL6knQ) (Code: fy06): 2000 training, 2199 testing.
 * [RSISOD dataset](https://github.com/QingpingZheng/RSISOD/tree/main/data/RSISOD): 3784 training, 1270 testing.
 * [RSSOD-Bench dataset](https://github.com/EarthNets/Dataset4EO): 3000 training, 600 validation, 2400 testing.
+
+# HRSI-SOD datasets download    <a id="HRSI-SOD datasets download" class="anchor" href="HRSI-SOD datasets download" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+* [HRSSD dataset](https://github.com/laprf/HRSSD): 704 images, training:testing=5:2.
 
 
 # Evaluation Metrics  <a id="Evaluation Metrics" class="anchor" href="Evaluation Metrics" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
