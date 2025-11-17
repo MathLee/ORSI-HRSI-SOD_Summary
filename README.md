@@ -1,7 +1,7 @@
 # Salient Object Detection in Optical/Hyperspectral Remote Sensing Images Read List         
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **ORSI SOD**: Add one Neurocomputing paper.   
+ :heavy_exclamation_mark:  **ORSI&HRSI SOD**: Add HRSI SOD.   
 
 :running: **Keep updating.** :running:    
 --------------------------------------------------------------------------------------
