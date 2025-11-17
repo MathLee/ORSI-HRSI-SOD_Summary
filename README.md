@@ -1,4 +1,4 @@
-# Salient Object Detection in Optical/Hyperspectral Remote Sensing Images Read List         
+# Salient Object Detection in Optical & Hyperspectral Remote Sensing Images Read List         
 
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **ORSI&HRSI SOD**: Add HRSI SOD.   
