@@ -70,6 +70,7 @@
 :triangular_flag_on_post:41 | **ACM MM** | Frequency Meets Semantics: Text-Visual Fusion with Directional Spectral Enhancement for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755562)/[Code](https://github.com/dilamei/FMS-Net)
 :triangular_flag_on_post:42 | **ICIG** | EMANet: Edge-Enhanced Multi-scale Attention Network for Salient Object Detection in Optical Remote Sensing Imagery | [Paper](https://dl.acm.org/doi/abs/10.1007/978-981-95-3729-7_22)/Code
 :triangular_flag_on_post:43 | **IEEE TGRS** | Edge-Guided Refinement Network with Similarity Perception for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11268306)/[Code](https://github.com/xinwang11/ERNet)
+:triangular_flag_on_post:44 | **ESWA** | Cos-UMamba: Optimizing Salient Object Detection with Cosine Scanning and Bias-Corrected Feature Fusion in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417425044781)/[Code](https://github.com/darkseid-arch/Cos-UMamba)
 
 
 
