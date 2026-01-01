@@ -65,12 +65,13 @@
 36 | **Journal of Physics: Conference Series** | Multi-scale Dynamic Convolution and Attention-Guided Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://iopscience.iop.org/article/10.1088/1742-6596/3083/1/012005)/Code
 37 | **IEEE TCYB** | Cross-Model Nested Fusion Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11163514)/Code
 38 | **IEEE TGRS** | Topology-Aware Hierarchical Mamba for Salient Object Detection in Remote Sensing Imagery | [Paper](https://ieeexplore.ieee.org/document/11180127)/[Code](https://github.com/LazyShark2001/THMNet)
-:triangular_flag_on_post:39 | **EAAI** | Semantic Awareness Aggregation for Salient Object Detection in Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197625018391?via%3Dihub)/[Code](https://github.com/nzmtnh/SAANet)
-:triangular_flag_on_post:40 | **IEEE TGRS** | RDNet: Region Proportion-Aware Dynamic Adaptive Salient Object Detection Network in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11208683)/Code
-:triangular_flag_on_post:41 | **ACM MM** | Frequency Meets Semantics: Text-Visual Fusion with Directional Spectral Enhancement for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755562)/[Code](https://github.com/dilamei/FMS-Net)
-:triangular_flag_on_post:42 | **ICIG** | EMANet: Edge-Enhanced Multi-scale Attention Network for Salient Object Detection in Optical Remote Sensing Imagery | [Paper](https://dl.acm.org/doi/abs/10.1007/978-981-95-3729-7_22)/Code
+39 | **EAAI** | Semantic Awareness Aggregation for Salient Object Detection in Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197625018391?via%3Dihub)/[Code](https://github.com/nzmtnh/SAANet)
+40 | **IEEE TGRS** | RDNet: Region Proportion-Aware Dynamic Adaptive Salient Object Detection Network in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11208683)/Code
+41 | **ACM MM** | Frequency Meets Semantics: Text-Visual Fusion with Directional Spectral Enhancement for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755562)/[Code](https://github.com/dilamei/FMS-Net)
+42 | **ICIG** | EMANet: Edge-Enhanced Multi-scale Attention Network for Salient Object Detection in Optical Remote Sensing Imagery | [Paper](https://dl.acm.org/doi/abs/10.1007/978-981-95-3729-7_22)/Code
 :triangular_flag_on_post:43 | **IEEE TGRS** | Edge-Guided Refinement Network with Similarity Perception for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11268306)/[Code](https://github.com/xinwang11/ERNet)
 :triangular_flag_on_post:44 | **ESWA** | Cos-UMamba: Optimizing Salient Object Detection with Cosine Scanning and Bias-Corrected Feature Fusion in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417425044781)/[Code](https://github.com/darkseid-arch/Cos-UMamba)
+:triangular_flag_on_post:45 | **J. Imaging** | Salient Object Detection in Optical Remote Sensing Images Based on Hierarchical Semantic Interaction | [Paper](https://www.mdpi.com/2313-433X/11/12/453)/Code
 
 
 
