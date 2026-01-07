@@ -27,7 +27,7 @@
 ## 2026    
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post:1 | **Optics & Laser Technology** | EAFBSNet: Edge-aware and foreground-background separation network for salient object detection in optical remote sensing images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0030399225021917)/Code
+:triangular_flag_on_post:1 | **Optics & Laser Technology** | EAFBSNet: Edge-Aware and Foreground-Background Separation Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0030399225021917)/Code
 
 
 
