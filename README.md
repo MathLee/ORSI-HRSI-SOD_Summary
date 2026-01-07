@@ -24,6 +24,13 @@
   
 # ORSI Salient Object Detection <a id="ORSI Salient Object Detection" class="anchor" href="ORSI Salient Object Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
 
+## 2026    
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+:triangular_flag_on_post:1 | **Optics & Laser Technology** | EAFBSNet: Edge-aware and foreground-background separation network for salient object detection in optical remote sensing images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0030399225021917)/Code
+
+
+
 ## 2025     
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
@@ -73,28 +80,6 @@
 :triangular_flag_on_post:44 | **ESWA** | Cos-UMamba: Optimizing Salient Object Detection with Cosine Scanning and Bias-Corrected Feature Fusion in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417425044781)/[Code](https://github.com/darkseid-arch/Cos-UMamba)
 :triangular_flag_on_post:45 | **J. Imaging** | Salient Object Detection in Optical Remote Sensing Images Based on Hierarchical Semantic Interaction | [Paper](https://www.mdpi.com/2313-433X/11/12/453)/Code
 :triangular_flag_on_post:46 | **Photogrammetric Engineering & Remote Sensing** | Probabilistic Uncertainty-Guided Salient Object Detection in Remote Sensing Images | [Paper](https://www.ingentaconnect.com/content/asprs/pers/pre-prints/content-25-00092r4)/[Code](https://github.com/OrangeCat12352/UGNet)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
