@@ -72,8 +72,7 @@
 :triangular_flag_on_post:43 | **IEEE TGRS** | Edge-Guided Refinement Network with Similarity Perception for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11268306)/[Code](https://github.com/xinwang11/ERNet)
 :triangular_flag_on_post:44 | **ESWA** | Cos-UMamba: Optimizing Salient Object Detection with Cosine Scanning and Bias-Corrected Feature Fusion in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417425044781)/[Code](https://github.com/darkseid-arch/Cos-UMamba)
 :triangular_flag_on_post:45 | **J. Imaging** | Salient Object Detection in Optical Remote Sensing Images Based on Hierarchical Semantic Interaction | [Paper](https://www.mdpi.com/2313-433X/11/12/453)/Code
-
-
+:triangular_flag_on_post:46 | **Photogrammetric Engineering & Remote Sensing** | Probabilistic Uncertainty-Guided Salient Object Detection in Remote Sensing Images | [Paper](https://www.ingentaconnect.com/content/asprs/pers/pre-prints/content-25-00092r4)/[Code](https://github.com/OrangeCat12352/UGNet)
 
 
 
