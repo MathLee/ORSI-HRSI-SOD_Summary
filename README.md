@@ -30,6 +30,7 @@
 :triangular_flag_on_post:1 | **Optics & Laser Technology** | EAFBSNet: Edge-Aware and Foreground-Background Separation Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0030399225021917)/Code
 :triangular_flag_on_post:2 | **IEEE JSTARS** | HAWKSight: Hierarchical Attention-Driven Weighted Kernel Network for Aerial Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11271522)/Code
 :triangular_flag_on_post:3 | **IEEE GRSL** | ORSI Salient Object Detection via Progressive Interaction and Saliency-Guided Enhancement | [Paper](https://ieeexplore.ieee.org/document/11303231)/Code
+:triangular_flag_on_post:4 | **IEEE TCSVT** | Mamba-driven Diffusion Model for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11333347)/Code
 
 
 
