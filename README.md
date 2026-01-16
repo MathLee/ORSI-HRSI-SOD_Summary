@@ -32,6 +32,7 @@
 :triangular_flag_on_post:3 | **IEEE GRSL** | ORSI Salient Object Detection via Progressive Interaction and Saliency-Guided Enhancement | [Paper](https://ieeexplore.ieee.org/document/11303231)/Code
 :triangular_flag_on_post:4 | **IEEE TCSVT** | Mamba-driven Diffusion Model for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11333347)/Code
 :triangular_flag_on_post:5 | **AAAI** | Small but Mighty: Dynamic Wavelet Expert-Guided Fine-Tuning of Large-Scale Models for Optical Remote Sensing Object Segmentation | [Paper](https://arxiv.org/abs/2601.09108)/[Code](https://github.com/CSYSI/WEFT)
+:triangular_flag_on_post:6 | **IEEE GRSL** | Fixation-Guided Diffusion for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11303205)/[Code](https://github.com/23shuiyang/FGDiff)
 
 
 
@@ -87,7 +88,6 @@
 :triangular_flag_on_post:45 | **J. Imaging** | Salient Object Detection in Optical Remote Sensing Images Based on Hierarchical Semantic Interaction | [Paper](https://www.mdpi.com/2313-433X/11/12/453)/Code
 :triangular_flag_on_post:46 | **Photogrammetric Engineering & Remote Sensing** | Probabilistic Uncertainty-Guided Salient Object Detection in Remote Sensing Images | [Paper](https://www.ingentaconnect.com/content/asprs/pers/pre-prints/content-25-00092r4)/[Code](https://github.com/OrangeCat12352/UGNet)
 :triangular_flag_on_post:47 | **IEEE TGRS** | DiffORSINet: Salient Object Detection in Optical Remote Sensing Images via Conditional Diffusion Model | [Paper](https://ieeexplore.ieee.org/document/11300912)/[Code](https://github.com/hyy-qd/DiffORSINet)
-:triangular_flag_on_post:48 | **IEEE GRSL** | Fixation-Guided Diffusion for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11303205)/[Code](https://github.com/23shuiyang/FGDiff)
 
 
 
