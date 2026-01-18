@@ -33,6 +33,7 @@
 :triangular_flag_on_post:4 | **IEEE TCSVT** | Mamba-driven Diffusion Model for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11333347)/Code
 :triangular_flag_on_post:5 | **AAAI** | Small but Mighty: Dynamic Wavelet Expert-Guided Fine-Tuning of Large-Scale Models for Optical Remote Sensing Object Segmentation | [Paper](https://arxiv.org/abs/2601.09108)/[Code](https://github.com/CSYSI/WEFT)
 :triangular_flag_on_post:6 | **IEEE GRSL** | Fixation-Guided Diffusion for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11303205)/[Code](https://github.com/23shuiyang/FGDiff)
+:triangular_flag_on_post:7 | **IEEE TCSVT** | G2HFNet: GeoGran-Aware Hierarchical Feature Fusion Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11346472)/Code
 
 
 
