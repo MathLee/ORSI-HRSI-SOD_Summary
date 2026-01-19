@@ -86,10 +86,10 @@
 42 | **ICIG** | EMANet: Edge-Enhanced Multi-scale Attention Network for Salient Object Detection in Optical Remote Sensing Imagery | [Paper](https://dl.acm.org/doi/abs/10.1007/978-981-95-3729-7_22)/Code
 43 | **IEEE TGRS** | Edge-Guided Refinement Network with Similarity Perception for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11268306)/[Code](https://github.com/xinwang11/ERNet)
 44 | **ESWA** | Cos-UMamba: Optimizing Salient Object Detection with Cosine Scanning and Bias-Corrected Feature Fusion in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417425044781)/[Code](https://github.com/darkseid-arch/Cos-UMamba)
-:triangular_flag_on_post:45 | **J. Imaging** | Salient Object Detection in Optical Remote Sensing Images Based on Hierarchical Semantic Interaction | [Paper](https://www.mdpi.com/2313-433X/11/12/453)/Code
-:triangular_flag_on_post:46 | **Photogrammetric Engineering & Remote Sensing** | Probabilistic Uncertainty-Guided Salient Object Detection in Remote Sensing Images | [Paper](https://www.ingentaconnect.com/content/asprs/pers/pre-prints/content-25-00092r4)/[Code](https://github.com/OrangeCat12352/UGNet)
-:triangular_flag_on_post:47 | **IEEE TGRS** | DiffORSINet: Salient Object Detection in Optical Remote Sensing Images via Conditional Diffusion Model | [Paper](https://ieeexplore.ieee.org/document/11300912)/[Code](https://github.com/hyy-qd/DiffORSINet)
-
+45 | **J. Imaging** | Salient Object Detection in Optical Remote Sensing Images Based on Hierarchical Semantic Interaction | [Paper](https://www.mdpi.com/2313-433X/11/12/453)/Code
+46 | **Photogrammetric Engineering & Remote Sensing** | Probabilistic Uncertainty-Guided Salient Object Detection in Remote Sensing Images | [Paper](https://www.ingentaconnect.com/content/asprs/pers/pre-prints/content-25-00092r4)/[Code](https://github.com/OrangeCat12352/UGNet)
+47 | **IEEE TGRS** | DiffORSINet: Salient Object Detection in Optical Remote Sensing Images via Conditional Diffusion Model | [Paper](https://ieeexplore.ieee.org/document/11300912)/[Code](https://github.com/hyy-qd/DiffORSINet)
+48 | **ESWA** | Multi-source Information Fusion Attention Network for Weakly Supervised Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417424023728)/Code
 
 
 ## 2024      
