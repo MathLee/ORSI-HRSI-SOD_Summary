@@ -27,16 +27,16 @@
 ## 2026    
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post:01 | **Optics & Laser Technology** | EAFBSNet: Edge-Aware and Foreground-Background Separation Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0030399225021917)/Code
-:triangular_flag_on_post:02 | **IEEE JSTARS** | HAWKSight: Hierarchical Attention-Driven Weighted Kernel Network for Aerial Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11271522)/Code
-:triangular_flag_on_post:03 | **IEEE GRSL** | ORSI Salient Object Detection via Progressive Interaction and Saliency-Guided Enhancement | [Paper](https://ieeexplore.ieee.org/document/11303231)/Code
-:triangular_flag_on_post:04 | **IEEE TCSVT** | Mamba-driven Diffusion Model for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11333347)/Code
-:triangular_flag_on_post:05 | **AAAI** | Small but Mighty: Dynamic Wavelet Expert-Guided Fine-Tuning of Large-Scale Models for Optical Remote Sensing Object Segmentation | [Paper](https://arxiv.org/abs/2601.09108)/[Code](https://github.com/CSYSI/WEFT)
-:triangular_flag_on_post:06 | **IEEE GRSL** | Fixation-Guided Diffusion for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11303205)/[Code](https://github.com/23shuiyang/FGDiff)
-:triangular_flag_on_post:07 | **IEEE TCSVT** | G2HFNet: GeoGran-Aware Hierarchical Feature Fusion Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11346472)/Code
-:triangular_flag_on_post:08 | **Remote Sensing** | Salient Object Detection for Optical Remote Sensing Images Based on Gated Differential Unit | [Paper](https://www.mdpi.com/2072-4292/18/3/389)/Code
-:triangular_flag_on_post:09 | **Expert Systems with Applications** | Explicitly Learning Semantic Relevance for Salient Object Detection in Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426003003)/Code
-:triangular_flag_on_post:10 | **Photogrammetric Engineering & Remote Sensing** | Probabilistic Uncertainty-Guided Salient Object Detection in Remote Sensing Images | [Paper](https://chinesesites.library.ingentaconnect.com/content/asprs/pers/2026/00000092/00000002/art00015)/Code
+01 | **Optics & Laser Technology** | EAFBSNet: Edge-Aware and Foreground-Background Separation Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0030399225021917)/Code
+02 | **IEEE JSTARS** | HAWKSight: Hierarchical Attention-Driven Weighted Kernel Network for Aerial Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11271522)/Code
+03 | **IEEE GRSL** | ORSI Salient Object Detection via Progressive Interaction and Saliency-Guided Enhancement | [Paper](https://ieeexplore.ieee.org/document/11303231)/Code
+04 | **IEEE TCSVT** | Mamba-driven Diffusion Model for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11333347)/Code
+05 | **AAAI** | Small but Mighty: Dynamic Wavelet Expert-Guided Fine-Tuning of Large-Scale Models for Optical Remote Sensing Object Segmentation | [Paper](https://arxiv.org/abs/2601.09108)/[Code](https://github.com/CSYSI/WEFT)
+06 | **IEEE GRSL** | Fixation-Guided Diffusion for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11303205)/[Code](https://github.com/23shuiyang/FGDiff)
+07 | **IEEE TCSVT** | G2HFNet: GeoGran-Aware Hierarchical Feature Fusion Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11346472)/Code
+08 | **Remote Sensing** | Salient Object Detection for Optical Remote Sensing Images Based on Gated Differential Unit | [Paper](https://www.mdpi.com/2072-4292/18/3/389)/Code
+09 | **Expert Systems with Applications** | Explicitly Learning Semantic Relevance for Salient Object Detection in Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426003003)/Code
+10 | **Photogrammetric Engineering & Remote Sensing** | Probabilistic Uncertainty-Guided Salient Object Detection in Remote Sensing Images | [Paper](https://chinesesites.library.ingentaconnect.com/content/asprs/pers/2026/00000092/00000002/art00015)/Code
 :triangular_flag_on_post:11 | **IEEE TGRS** | DeSPAR: Depth-Guided Semantic-Prompted Adaptive Refinement for ORSI Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/11367015)/Code
 :triangular_flag_on_post:12 | **Expert Systems with Applications** | Interactive Edge Awareness Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S095741742600792X)/Code
 :triangular_flag_on_post:13 | **IEEE TCYB** | Learning Conditional Diffusion Transformer for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11435020)/Code
