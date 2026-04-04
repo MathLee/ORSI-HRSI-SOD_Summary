@@ -41,7 +41,7 @@
 :triangular_flag_on_post:12 | **Expert Systems with Applications** | Interactive Edge Awareness Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S095741742600792X)/Code
 :triangular_flag_on_post:13 | **IEEE TCYB** | Learning Conditional Diffusion Transformer for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11435020)/Code
 :triangular_flag_on_post:14 | **IEEE TGRS** | Lightweight Dual Correlation Variance Compensation for Salient Object Detection in Optical Remote Sensing Images| [Paper](https://ieeexplore.ieee.org/document/11434545)/Code
-:triangular_flag_on_post:15 | **IEEE TGRS** | Lightweight ORSI Salient Object Detection via Frequency and Mutual Assistance Attention| Paper/[Code](https://github.com/MathLee/FreMaNet)
+:triangular_flag_on_post:15 | **IEEE TGRS** | Lightweight ORSI Salient Object Detection via Frequency and Mutual Assistance Attention| [Paper](https://ieeexplore.ieee.org/document/11471846)/[Code](https://github.com/MathLee/FreMaNet)
 
 
 
