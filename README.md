@@ -42,6 +42,7 @@
 :triangular_flag_on_post:13 | **IEEE TCYB** | Learning Conditional Diffusion Transformer for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11435020)/Code
 :triangular_flag_on_post:14 | **IEEE TGRS** | Lightweight Dual Correlation Variance Compensation for Salient Object Detection in Optical Remote Sensing Images| [Paper](https://ieeexplore.ieee.org/document/11434545)/Code
 :triangular_flag_on_post:15 | **IEEE TGRS** | Lightweight ORSI Salient Object Detection via Frequency and Mutual Assistance Attention| [Paper](https://ieeexplore.ieee.org/document/11471846)/[Code](https://github.com/MathLee/FreMaNet)
+:triangular_flag_on_post:16 | **IEEE ICME** | ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection| [Paper](https://arxiv.org/abs/2603.28584)/[Code](https://github.com/Ch3nSir/ORSIFlow)
 
 
 
