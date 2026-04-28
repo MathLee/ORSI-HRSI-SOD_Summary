@@ -44,6 +44,9 @@
 :triangular_flag_on_post:15 | **IEEE TGRS** | Lightweight ORSI Salient Object Detection via Frequency and Mutual Assistance Attention| [Paper](https://ieeexplore.ieee.org/document/11471846)/[Code](https://github.com/MathLee/FreMaNet)
 :triangular_flag_on_post:16 | **IEEE ICME** | ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection| [Paper](https://arxiv.org/abs/2603.28584)/[Code](https://github.com/Ch3nSir/ORSIFlow)
 :triangular_flag_on_post:17 | **Remote Sensing** | Cooperative Hybrid Domain Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/18/7/1087)/Code
+:triangular_flag_on_post:18 | **IEEE ICASSP** | LSAFE: Edge-Guided Lightweight Network for Remote Sensing Salient Object Detection Via Dynamic Multi-Scale Fusion | [Paper](https://ieeexplore.ieee.org/document/11460872)/Code
+:triangular_flag_on_post:19 | **IEEE ICASSP** | A Wavelet-Based Network with Multi-Scale Feature Complementarity Enhancement for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11465036)/Code
+
 
 
 
