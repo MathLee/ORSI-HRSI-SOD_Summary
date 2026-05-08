@@ -37,16 +37,16 @@
 08 | **Remote Sensing** | Salient Object Detection for Optical Remote Sensing Images Based on Gated Differential Unit | [Paper](https://www.mdpi.com/2072-4292/18/3/389)/Code
 09 | **Expert Systems with Applications** | Explicitly Learning Semantic Relevance for Salient Object Detection in Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426003003)/Code
 10 | **Photogrammetric Engineering & Remote Sensing** | Probabilistic Uncertainty-Guided Salient Object Detection in Remote Sensing Images | [Paper](https://chinesesites.library.ingentaconnect.com/content/asprs/pers/2026/00000092/00000002/art00015)/Code
-:triangular_flag_on_post:11 | **IEEE TGRS** | DeSPAR: Depth-Guided Semantic-Prompted Adaptive Refinement for ORSI Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/11367015)/Code
-:triangular_flag_on_post:12 | **Expert Systems with Applications** | Interactive Edge Awareness Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S095741742600792X)/Code
-:triangular_flag_on_post:13 | **IEEE TCYB** | Learning Conditional Diffusion Transformer for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11435020)/Code
-:triangular_flag_on_post:14 | **IEEE TGRS** | Lightweight Dual Correlation Variance Compensation for Salient Object Detection in Optical Remote Sensing Images| [Paper](https://ieeexplore.ieee.org/document/11434545)/Code
-:triangular_flag_on_post:15 | **IEEE TGRS** | Lightweight ORSI Salient Object Detection via Frequency and Mutual Assistance Attention| [Paper](https://ieeexplore.ieee.org/document/11471846)/[Code](https://github.com/MathLee/FreMaNet)
+11 | **IEEE TGRS** | DeSPAR: Depth-Guided Semantic-Prompted Adaptive Refinement for ORSI Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/11367015)/Code
+12 | **Expert Systems with Applications** | Interactive Edge Awareness Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S095741742600792X)/Code
+13 | **IEEE TCYB** | Learning Conditional Diffusion Transformer for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11435020)/Code
+14 | **IEEE TGRS** | Lightweight Dual Correlation Variance Compensation for Salient Object Detection in Optical Remote Sensing Images| [Paper](https://ieeexplore.ieee.org/document/11434545)/Code
+15 | **IEEE TGRS** | Lightweight ORSI Salient Object Detection via Frequency and Mutual Assistance Attention| [Paper](https://ieeexplore.ieee.org/document/11471846)/[Code](https://github.com/MathLee/FreMaNet)
 :triangular_flag_on_post:16 | **IEEE ICME** | ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection| [Paper](https://arxiv.org/abs/2603.28584)/[Code](https://github.com/Ch3nSir/ORSIFlow)
 :triangular_flag_on_post:17 | **Remote Sensing** | Cooperative Hybrid Domain Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/18/7/1087)/Code
 :triangular_flag_on_post:18 | **IEEE ICASSP** | LSAFE: Edge-Guided Lightweight Network for Remote Sensing Salient Object Detection Via Dynamic Multi-Scale Fusion | [Paper](https://ieeexplore.ieee.org/document/11460872)/Code
 :triangular_flag_on_post:19 | **IEEE ICASSP** | A Wavelet-Based Network with Multi-Scale Feature Complementarity Enhancement for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11465036)/Code
-:triangular_flag_on_post:19 | **IEEE GRSL** | Unleashing the Potential of Segment Anything Model 2 for Efficient ORSI Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11503468)/[Code](https://github.com/wellMachine/SAM2-RS)
+:triangular_flag_on_post:20 | **IEEE GRSL** | Unleashing the Potential of Segment Anything Model 2 for Efficient ORSI Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11503468)/[Code](https://github.com/wellMachine/SAM2-RS)
 
 
 
