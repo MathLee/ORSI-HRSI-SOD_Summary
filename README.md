@@ -48,6 +48,8 @@
 :triangular_flag_on_post:19 | **IEEE ICASSP** | A Wavelet-Based Network with Multi-Scale Feature Complementarity Enhancement for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11465036)/Code
 :triangular_flag_on_post:20 | **IEEE TGRS** | Unleashing the Potential of Segment Anything Model 2 for Efficient ORSI Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11503468)/[Code](https://github.com/wellMachine/SAM2-RS)
 :triangular_flag_on_post:21 | **Remote Sensing** | EGMamba-Net: Edge-Guided Global-Local Mamba Network with Region-Adaptive Routing for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/18/10/1568)/Code
+:triangular_flag_on_post:22 | **应用数学进展** | 光学遥感图像显著目标检测的边缘增强轻量型模型探究 | [Paper](https://www.hanspub.org/journal/paperinformation?paperID=139116)/Code
+
 
 
 
