@@ -50,6 +50,7 @@
 :triangular_flag_on_post:21 | **Remote Sensing** | EGMamba-Net: Edge-Guided Global-Local Mamba Network with Region-Adaptive Routing for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/18/10/1568)/Code
 :triangular_flag_on_post:22 | **应用数学进展** | 光学遥感图像显著目标检测的边缘增强轻量型模型探究 | [Paper](https://www.hanspub.org/journal/paperinformation?paperID=139116)/Code
 :triangular_flag_on_post:23 | **Remote Sensing** | S2AM: Dynamic Center–Surround Mechanism for Remote Sensing Salient Object Detection | [Paper](https://www.mdpi.com/2072-4292/18/10/1490)/Code
+:triangular_flag_on_post:24 | **IEEE Internet of Things Journal** | Perceptual Gating Mamba Network for Salient Object Detection in Remote Sensing Observation | [Paper](https://ieeexplore.ieee.org/document/11534248)/Code
 
 
 
