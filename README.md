@@ -42,15 +42,16 @@
 13 | **IEEE TCYB** | Learning Conditional Diffusion Transformer for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11435020)/Code
 14 | **IEEE TGRS** | Lightweight Dual Correlation Variance Compensation for Salient Object Detection in Optical Remote Sensing Images| [Paper](https://ieeexplore.ieee.org/document/11434545)/Code
 15 | **IEEE TGRS** | Lightweight ORSI Salient Object Detection via Frequency and Mutual Assistance Attention| [Paper](https://ieeexplore.ieee.org/document/11471846)/[Code](https://github.com/MathLee/FreMaNet)
-:triangular_flag_on_post:16 | **IEEE ICME** | ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection| [Paper](https://arxiv.org/abs/2603.28584)/[Code](https://github.com/Ch3nSir/ORSIFlow)
-:triangular_flag_on_post:17 | **Remote Sensing** | Cooperative Hybrid Domain Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/18/7/1087)/Code
-:triangular_flag_on_post:18 | **IEEE ICASSP** | LSAFE: Edge-Guided Lightweight Network for Remote Sensing Salient Object Detection Via Dynamic Multi-Scale Fusion | [Paper](https://ieeexplore.ieee.org/document/11460872)/Code
-:triangular_flag_on_post:19 | **IEEE ICASSP** | A Wavelet-Based Network with Multi-Scale Feature Complementarity Enhancement for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11465036)/Code
-:triangular_flag_on_post:20 | **IEEE TGRS** | Unleashing the Potential of Segment Anything Model 2 for Efficient ORSI Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11503468)/[Code](https://github.com/wellMachine/SAM2-RS)
+16 | **IEEE ICME** | ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection| [Paper](https://arxiv.org/abs/2603.28584)/[Code](https://github.com/Ch3nSir/ORSIFlow)
+17 | **Remote Sensing** | Cooperative Hybrid Domain Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/18/7/1087)/Code
+18 | **IEEE ICASSP** | LSAFE: Edge-Guided Lightweight Network for Remote Sensing Salient Object Detection Via Dynamic Multi-Scale Fusion | [Paper](https://ieeexplore.ieee.org/document/11460872)/Code
+19 | **IEEE ICASSP** | A Wavelet-Based Network with Multi-Scale Feature Complementarity Enhancement for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11465036)/Code
+20 | **IEEE TGRS** | Unleashing the Potential of Segment Anything Model 2 for Efficient ORSI Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11503468)/[Code](https://github.com/wellMachine/SAM2-RS)
 :triangular_flag_on_post:21 | **Remote Sensing** | EGMamba-Net: Edge-Guided Global-Local Mamba Network with Region-Adaptive Routing for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/18/10/1568)/Code
 :triangular_flag_on_post:22 | **应用数学进展** | 光学遥感图像显著目标检测的边缘增强轻量型模型探究 | [Paper](https://www.hanspub.org/journal/paperinformation?paperID=139116)/Code
 :triangular_flag_on_post:23 | **Remote Sensing** | S2AM: Dynamic Center–Surround Mechanism for Remote Sensing Salient Object Detection | [Paper](https://www.mdpi.com/2072-4292/18/10/1490)/Code
 :triangular_flag_on_post:24 | **IEEE Internet of Things Journal** | Perceptual Gating Mamba Network for Salient Object Detection in Remote Sensing Observation | [Paper](https://ieeexplore.ieee.org/document/11534248)/Code
+:triangular_flag_on_post:25 | **Neurocomputing** | LENS-Net: Low-energy Spiking Neural Network for Remote Sensing Saliency | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231226015328)/[Code](https://github.com/7dra/LENS-Net)
 
 
 
