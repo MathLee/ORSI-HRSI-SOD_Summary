@@ -52,6 +52,8 @@
 :triangular_flag_on_post:23 | **Remote Sensing** | S2AM: Dynamic Center–Surround Mechanism for Remote Sensing Salient Object Detection | [Paper](https://www.mdpi.com/2072-4292/18/10/1490)/Code
 :triangular_flag_on_post:24 | **IEEE Internet of Things Journal** | Perceptual Gating Mamba Network for Salient Object Detection in Remote Sensing Observation | [Paper](https://ieeexplore.ieee.org/document/11534248)/Code
 :triangular_flag_on_post:25 | **Neurocomputing** | LENS-Net: Low-energy Spiking Neural Network for Remote Sensing Saliency | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231226015328)/[Code](https://github.com/7dra/LENS-Net)
+:triangular_flag_on_post:26 | **IEEE TCYB** | Global–Local Interaction and Recalibration Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11543482)/Code
+
 
 
 
