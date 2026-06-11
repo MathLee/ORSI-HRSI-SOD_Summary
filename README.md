@@ -53,6 +53,8 @@
 :triangular_flag_on_post:24 | **IEEE Internet of Things Journal** | Perceptual Gating Mamba Network for Salient Object Detection in Remote Sensing Observation | [Paper](https://ieeexplore.ieee.org/document/11534248)/Code
 :triangular_flag_on_post:25 | **Neurocomputing** | LENS-Net: Low-energy Spiking Neural Network for Remote Sensing Saliency | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231226015328)/[Code](https://github.com/7dra/LENS-Net)
 :triangular_flag_on_post:26 | **IEEE TCYB** | Global–Local Interaction and Recalibration Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11543482)/Code
+:triangular_flag_on_post:27 | **IEEE TGRS** | Spatial-Frequency Enhancement and Scale-Decoupled Refinement Network for Salient Object Detection in ORSI | [Paper](https://ieeexplore.ieee.org/document/11552797)/[Code](https://github.com/hjy0518/SESRNet/)
+
 
 
 
