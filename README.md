@@ -56,7 +56,9 @@
 :triangular_flag_on_post:27 | **IEEE TGRS** | Spatial-Frequency Enhancement and Scale-Decoupled Refinement Network for Salient Object Detection in ORSI | [Paper](https://ieeexplore.ieee.org/document/11552797)/[Code](https://github.com/hjy0518/SESRNet/)
 :triangular_flag_on_post:28 | **IEEE TGRS** | Multiscale Difference Excitation Networks for Efficient Salient Object Detection in Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11554111)/Code
 :triangular_flag_on_post:29 | **IEEE JSTARS** | ESFNet: Edge-Guided Stratified Fusion Network for Remote Sensing Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11556228)/Code
-:triangular_flag_on_post:30 | **IJCV** | IPDiff: Diffusion-driven ORSI Salient Object Detection with Information Reconstruction and Multi-Prior Guidance | Paper/Code
+:triangular_flag_on_post:30 | **IEEE TGRS** | Cross-Modal Fusion with UVI Enhancement for Salient Object Detection in Low-Light ORSI Images | [Paper](https://ieeexplore.ieee.org/document/11560967)/[Code](https://github.com/elaxEgan/DarkSalNet)
+:triangular_flag_on_post:31 | **IJCV** | IPDiff: Diffusion-driven ORSI Salient Object Detection with Information Reconstruction and Multi-Prior Guidance | Paper/[Code](https://github.com/MathLee/IPDiff)
+
 
 
 
