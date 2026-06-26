@@ -58,6 +58,8 @@
 :triangular_flag_on_post:29 | **IEEE JSTARS** | ESFNet: Edge-Guided Stratified Fusion Network for Remote Sensing Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11556228)/Code
 :triangular_flag_on_post:30 | **IEEE TGRS** | Cross-Modal Fusion with UVI Enhancement for Salient Object Detection in Low-Light ORSI Images | [Paper](https://ieeexplore.ieee.org/document/11560967)/[Code](https://github.com/elaxEgan/DarkSalNet)
 :triangular_flag_on_post:31 | **IJCV** | IPDiff: Diffusion-driven ORSI Salient Object Detection with Information Reconstruction and Multi-Prior Guidance | Paper/[Code](https://github.com/MathLee/IPDiff)
+:triangular_flag_on_post:32 | **IEEE Access** | ORSI-Phoenix: A Cross-Task Learning Framework for Optical Remote Sensing Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11570867)/Code
+
 
 
 
