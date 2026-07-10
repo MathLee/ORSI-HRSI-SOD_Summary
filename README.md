@@ -60,6 +60,8 @@
 :triangular_flag_on_post:31 | **IJCV** | IPDiff: Diffusion-driven ORSI Salient Object Detection with Information Reconstruction and Multi-Prior Guidance | [Paper](https://link.springer.com/article/10.1007/s11263-026-02931-y)/[Code](https://github.com/MathLee/IPDiff)
 :triangular_flag_on_post:32 | **IEEE Access** | ORSI-Phoenix: A Cross-Task Learning Framework for Optical Remote Sensing Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11570867)/Code
 :triangular_flag_on_post:33 | **Concurrency and Computation: Practice and Experience** | LDSINet: Lightweight Dual-Stream Integration Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.70769)/Code
+:triangular_flag_on_post:34 | **IEEE JSTARS** | LGRA-Net: Progressive Local–Global Representation Alignment Network for ORSI Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11589463)/Code
+
 
 
 
