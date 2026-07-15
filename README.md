@@ -60,8 +60,9 @@
 :triangular_flag_on_post:31 | **IJCV** | IPDiff: Diffusion-driven ORSI Salient Object Detection with Information Reconstruction and Multi-Prior Guidance | [Paper](https://link.springer.com/article/10.1007/s11263-026-02931-y)/[Code](https://github.com/MathLee/IPDiff)
 :triangular_flag_on_post:32 | **IEEE Access** | ORSI-Phoenix: A Cross-Task Learning Framework for Optical Remote Sensing Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11570867)/Code
 :triangular_flag_on_post:33 | **Concurrency and Computation: Practice and Experience** | LDSINet: Lightweight Dual-Stream Integration Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.70769)/Code
-:triangular_flag_on_post:34 | **IEEE JSTARS** | LGRA-Net: Progressive Local–Global Representation Alignment Network for ORSI Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11589463)/[Code](https://github.com/zouduo/LGRA-Net)
+:triangular_flag_on_post:34 | **IEEE JSTARS** | LGRA-Net: Progressive Local–Global Representation Alignment Network for ORSI Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11589463)/[Code](https://github.com/zouduo/LGRA-Net)
 :triangular_flag_on_post:35 | **IVC** | Attention Interaction and Multiple Residual Integration Network for Salient Object Detection in Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885626002246)/Code
+:triangular_flag_on_post:36 | **IEEE JSTARS** | Spatial Semantic Information Interaction for Lightweight Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11600590)/[Code](https://github.com/WangJoker7/SSINet)
 
 
 
