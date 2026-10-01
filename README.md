@@ -69,7 +69,7 @@
 :triangular_flag_on_post:40 | **Engineering Applications of Artificial Intelligence** | Physics-guided and Dual Attention Salient Object Detection in Sand-dust Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197626021974)/[Code](https://github.com/TurnHug/PGDANet-main)
 :triangular_flag_on_post:41 | **Youth Academic Annual Conference of Chinese Association of Automation** | Vision Mamba-driven Salient Object Detection for Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11616018)/Code
 :triangular_flag_on_post:42 | **arxiv** | SPLG-Mamba: Structure-Preserving Local-Global Mamba Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://arxiv.org/abs/2608.29626)/[Code](https://github.com/yxu9910/SPLG-Mamba)
-:triangular_flag_on_post:43 | **IEEE TCSVT** | Exploring Information Entropy-driven Interaction and Hierarchical Edge Perception for Lightweight ORSI Salient Object Detection | Paper/[Code](https://github.com/MathLee/iHEPNet)
+:triangular_flag_on_post:43 | **IEEE TCSVT** | Exploring Information Entropy-driven Interaction and Hierarchical Edge Perception for Lightweight ORSI Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11717551)/[Code](https://github.com/MathLee/iHEPNet)
 
 
 
