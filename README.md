@@ -292,11 +292,16 @@
 
 # HRSI Salient Object Detection <a id="HRSI Salient Object Detection" class="anchor" href="HRSI Salient Object Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
 
+## 2026    
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+:triangular_flag_on_post:01 | **Remote Sensing** | Two-Level Spectral Adaptation and Multilevel Spectral Evidence Diagnostics for Hyperspectral Remote Sensing Salient Object Detection with a Wavelength-Conditioned Foundation Model | [Paper](https://www.mdpi.com/2072-4292/18/21/3694)/Code
+
 ## 2025    
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post:1 | **IEEE TGRS** | Hyperspectral Remote Sensing Images Salient Object Detection: The First Benchmark Dataset and Baseline `HRSSD` | [Paper](https://ieeexplore.ieee.org/document/10950441)/[Code](https://github.com/laprf/HRSSD)
-:triangular_flag_on_post:2 | **ICONIP** | Enhancing Hyperspectral Remote Salient Object Detection via Spectral Recalibration, Multi-scale Decoding, and Global Context Modeling | [Paper](https://link.springer.com/chapter/10.1007/978-981-95-4097-6_7)/[Code](https://github.com/dilamei/FMS-Net)
+1 | **IEEE TGRS** | Hyperspectral Remote Sensing Images Salient Object Detection: The First Benchmark Dataset and Baseline `HRSSD` | [Paper](https://ieeexplore.ieee.org/document/10950441)/[Code](https://github.com/laprf/HRSSD)
+2 | **ICONIP** | Enhancing Hyperspectral Remote Salient Object Detection via Spectral Recalibration, Multi-scale Decoding, and Global Context Modeling | [Paper](https://link.springer.com/chapter/10.1007/978-981-95-4097-6_7)/[Code](https://github.com/dilamei/FMS-Net)
 
 
 
