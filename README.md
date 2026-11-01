@@ -300,8 +300,8 @@
 ## 2025    
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-1 | **IEEE TGRS** | Hyperspectral Remote Sensing Images Salient Object Detection: The First Benchmark Dataset and Baseline `HRSSD` | [Paper](https://ieeexplore.ieee.org/document/10950441)/[Code](https://github.com/laprf/HRSSD)
-2 | **ICONIP** | Enhancing Hyperspectral Remote Salient Object Detection via Spectral Recalibration, Multi-scale Decoding, and Global Context Modeling | [Paper](https://link.springer.com/chapter/10.1007/978-981-95-4097-6_7)/[Code](https://github.com/dilamei/FMS-Net)
+01 | **IEEE TGRS** | Hyperspectral Remote Sensing Images Salient Object Detection: The First Benchmark Dataset and Baseline `HRSSD` | [Paper](https://ieeexplore.ieee.org/document/10950441)/[Code](https://github.com/laprf/HRSSD)
+02 | **ICONIP** | Enhancing Hyperspectral Remote Salient Object Detection via Spectral Recalibration, Multi-scale Decoding, and Global Context Modeling | [Paper](https://link.springer.com/chapter/10.1007/978-981-95-4097-6_7)/[Code](https://github.com/dilamei/FMS-Net)
 
 
 
