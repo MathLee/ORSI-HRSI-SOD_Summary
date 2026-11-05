@@ -72,6 +72,8 @@
 :triangular_flag_on_post:43 | **IEEE TCSVT** | Exploring Information Entropy-driven Interaction and Hierarchical Edge Perception for Lightweight ORSI Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11717551)/[Code](https://github.com/MathLee/iHEPNet)
 :triangular_flag_on_post:44 | **PR** | Extremely Lightweight Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320326020091)/[Code](https://github.com/blossom-lv/Lightweight_ORSI_SOD_Models)
 :triangular_flag_on_post:45 | **Applied Intelligence** | Sine Function-guided Master–slave Collaborative Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://link.springer.com/article/10.1007/s10489-026-07528-z)/Code
+:triangular_flag_on_post:46 | **PR** | Beyond Global Scanning: Adaptive Visual State Space Modeling for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://arxiv.org/abs/2508.10542)/Code
+
 
 
 
