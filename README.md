@@ -73,6 +73,7 @@
 :triangular_flag_on_post:44 | **PR** | Extremely Lightweight Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320326020091)/[Code](https://github.com/blossom-lv/Lightweight_ORSI_SOD_Models)
 :triangular_flag_on_post:45 | **Applied Intelligence** | Sine Function-guided Master–slave Collaborative Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://link.springer.com/article/10.1007/s10489-026-07528-z)/Code
 :triangular_flag_on_post:46 | **PR** | Beyond Global Scanning: Adaptive Visual State Space Modeling for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://arxiv.org/abs/2508.10542)/Code
+:triangular_flag_on_post:47 | **IEEE TGRS** | SDENet: Synergizing Domain-Adaptive Structural Priors with Edge-Constrained Progressive Decoding for ORSI Salient Object Detection | [Paper](https://xplorestaging.ieee.org/document/11797642)/[Code](https://github.com/zouduo/SDENet)
 
 
 
